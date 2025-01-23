@@ -12,7 +12,7 @@ The fully open source cookbook! Check out our current recipes or add your own.
 # CONTRIBUTING RECIPIES OR HOW TO'S
 * DO NOT COPY FROM PREEXISTING COOKBOOKS
 * Check out the template for adding a recipe
-* Be patient, this is a personal project, so it might be a while for me to see your pull requests
+* Be patient, this is a personal project, so it might be a while for me to see your recipes and add them.
 
 
 
